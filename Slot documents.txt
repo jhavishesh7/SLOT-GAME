@@ -1,0 +1,2 @@
+Npm init-used to create json file and all kind of required dependencies and install pacakages related to node
+npm i prompt-sync-used to allow the output from the user 
